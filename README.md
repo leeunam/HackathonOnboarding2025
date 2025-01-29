@@ -6,7 +6,7 @@
 ## **👥 Integrantes do Grupo**  
 - 🧑‍💻 [Ana Júlia Rodrigues Ribeiro](#)  
 - 👩‍💻 [Gabriel Carvalho Zanette](#)  
-- 👨‍🔬 [Leunam Sousa de Jesus](#)  
+- 👨‍🔬 [Leunam Sousa de Jesus](https://github.com/leeunam)  
 - 👩‍🔬 [Lorena Gabriela da Silva Garcia](#)  
 - 👨‍🎨 [Nathália Pires de Figueredo](#)  
 - 👩‍🎨 [Yan de Oliveira Ribeiro](#)  
