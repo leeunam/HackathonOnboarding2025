@@ -1,9 +1,9 @@
-# **🎯 Inteli - Hackathon Onboarding 2025 - Time KitKat🍫**
+# **🎯 Inteli - Hackathon Onboarding 2025 **
 
 ### **🔗 Link do Agente GPT:**  
 [Análise de Pitch](exemplo)
 
-## **👥 Integrantes do Grupo**  
+## **👥 Equipe KitKat🍫:**  
 - 🧑‍💻 [Ana Júlia Rodrigues Ribeiro](#)  
 - 👩‍💻 [Gabriel Carvalho Zanette](#)  
 - 👨‍🔬 [Leunam Sousa de Jesus](https://github.com/leeunam)  
