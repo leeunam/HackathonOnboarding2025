@@ -22,10 +22,10 @@
 
 ## **⚙️ Instruções do KitChat**  
 > Instruções básicas para ter uma mensagem clara como saída do prompt do KitChat.
+> 
 1️⃣ Explicar o porque você vai precisa de uma mensagem eficiente e assertiva.
 2️⃣ Onde você vai usar a sua mensagem.
 3️⃣ Para quem/qual local será usado essa mensagem.
-<br>
 🛠️ Este agente aceita **áudio ou texto**
 
 ### **🗣️ Estilo de Comunicação**  
