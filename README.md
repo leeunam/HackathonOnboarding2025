@@ -1,9 +1,9 @@
-# **🎯 Inteli - Hackathon Onboarding 2025 **
+# 🤖 Projeto KitChat (Inteli - Hackathon Onboarding 2025)
 
 ### **🔗 Link do Agente GPT:**  
 [Análise de Pitch](exemplo)
 
-## **🍫 Equipe KitChat:**  
+## **👥 Responsáveis:**  
 - 🧑‍💻 [Ana Júlia Rodrigues Ribeiro](https://github.com/anajuliarrod)  
 - 👩‍💻 [Gabriel Carvalho Zanette](https://github.com/Zanette00)  
 - 👨‍🔬 [Leunam Sousa de Jesus](https://github.com/leeunam)  
