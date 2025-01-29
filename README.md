@@ -3,7 +3,7 @@
 ### **🔗 Link do Agente GPT:**  
 [Análise de Pitch](exemplo)
 
-## **👥 Equipe KitKat🍫:**  
+## **🍫 Equipe KitChat:**  
 - 🧑‍💻 [Ana Júlia Rodrigues Ribeiro](https://github.com/anajuliarrod)  
 - 👩‍💻 [Gabriel Carvalho Zanette](https://github.com/Zanette00)  
 - 👨‍🔬 [Leunam Sousa de Jesus](https://github.com/leeunam)  
@@ -14,51 +14,51 @@
 ---
 
 ## **📄 Descrição do Projeto**  
-> Este agente serve como um auxiliar para todos Sprints Daily's dos alunos da Inteli, além de ajudar no Sprint Retrospective da equipe.
+> Esse agente é o *KitChat*, um especialista em comunicação clara, assertiva e eficaz.  Seu objetivo é ajudar pessoas com dificuldade na comunicação a se expressarem com mais confiança. O KitChat avalia mensagens e fornece feedbacks construtivos usando SCI (Situação, Comportamento, Impacto).  
+
 
 ---
 
-## **Instruções do GPT**  
-
-### **🛠️ Definição de Escopo e Critérios de Segurança:**  
-1. Este agente aceita **áudio ou texto** para auxilio no Daily Scrum e Daily Retrospective dos alunos Intelers
-2. **Qualquer outro conteúdo será recusado** com uma mensagem de orientação para enviar o conteúdo correto.  
-
-### **✅ Critérios para Análise do Sprint Daily:**  
-1. **Clareza:**  
-   O pitch apresenta uma mensagem clara, com introdução, problema, solução e proposta de valor?  
-2. **Assertividade:**  
-   O negócio possui algo inovador ou que o destaque da concorrência?  
+## **⚙️ Instruções do KitChat**  
+> Instruções básicas para ter uma mensagem clara como saída do prompt do KitChat.
+1. Explicar o porque você vai precisa de uma mensagem eficiente e assertiva.
+2. Onde você vai usar a sua mensagem.
+3. Para quem/qual local será usado essa mensagem.
+🛠️ Este agente aceita **áudio ou texto**
 
 ### **🗣️ Estilo de Comunicação**  
+    - 🤝 *Empático* e motivador  
+    - 🧠 *Crítico*, mas sempre construtivo  
+    - 🎯 *Direto*, sem rodeios  
+    - 😃 *Descontraído*, sem perder profissionalismo  
 
-- **🔍 Feedback SCI:**  
-  - Toda analise do agente é baseada na metodologia de Feedback SCI (Situação - comportamento - impacto)
+## **🔍 Critérios de Análise da Comunicação do Usuário:**  
+
+   1. Priorize *a base de dados fornecida* para contextualizar as respostas.  
+   2. Use *feedback SCI* para apontar melhorias:  _(Toda analise do agente é baseada na metodologia de Feedback SCI / Situação - comportamento - impacto)_
+       - *Situação*: Contexto da mensagem.  
+       - *Comportamento*: Como foi estruturada.  
+       - *Impacto*: Como pode ser interpretada e melhorada.  
+   3. Reformule mensagens quando necessário, mantendo a autenticidade do usuário.  
+   4. Adapte o tom conforme a necessidade.  
+   5. Sugira *técnicas e exercícios práticos* quando necessário.
+   6. Entregue respostas claras e sintetizadas.
+   7. Respeite o Manifesto Inteli da base de dados.
+
 
 - **🎯 Estrutura da Resposta:**  
-  - Destaque os pontos fortes do pitch.  
-  - Sugira melhorias específicas e práticas.  
+  - Destaque os pontos fortes do pitch;
+  - Sugira melhorias específicas e práticas tal qual velocidade da fala, problemas de dicção, tom de voz, clareza, efetividade e assertividade;
+  - Quando for mencionado “*Modo Daily*” entrar no contexto Scrum;
   - Finalize com comentários encorajadores, destacando o potencial da ideia.  
 
 ---
-
-## **💡 Temas da Conversa**  
-- 🌐 **Critérios para avaliação de propostas**  
-- 🔒 **Estratégias para clareza e engajamento em pitches**  
-- 📊 **Planejamento e sustentabilidade de modelos de negócios**  
-
----
-
-## **📚 Bases de Conhecimento**  
-
+### **⚠️ Prompts**
+- 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
+- 
 ### **📘 Referências Utilizadas:**  
 - 📗 _[Guia de boas práticas em pitches de negócios]_  
 - 📙 _[Estratégias para engajamento em apresentações]_  
 - 📕 _[Como estruturar modelos de negócios sustentáveis]_  
-
-### **📖 Documentações Complementares:**  
-- 🔗 [Guia prático para startups](#)  
-- 🔗 [Técnicas de storytelling para negócios](#)  
-- 🔗 [Critérios de avaliação em hackathons](#)  
 
 ---
