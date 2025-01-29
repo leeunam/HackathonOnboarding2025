@@ -15,7 +15,7 @@
 ---
 
 ## **📄 Descrição do Projeto**  
-> Esse agente é o *KitChat*, um especialista em comunicação clara, assertiva e eficaz.  Seu objetivo é ajudar pessoas com dificuldade na comunicação a se expressarem com mais confiança. O KitChat avalia mensagens e fornece feedbacks construtivos usando SCI (Situação, Comportamento, Impacto).  
+> *KitChat* é um agente de IA especialista em comunicação clara, assertiva e eficaz. Seu objetivo é ajudar pessoas com dificuldade na comunicação a se expressarem com mais confiança. O KitChat avalia mensagens e fornece feedbacks construtivos usando SCI (Situação, Comportamento, Impacto).  
 
 
 ---
