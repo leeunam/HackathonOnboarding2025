@@ -1,4 +1,5 @@
-# 🤖 Projeto KitChat > Inteli - Hackathon Onboarding 2025
+# 🤖 Projeto KitChat 
+> Inteli - Hackathon Onboarding 2025
 
 ### **🔗 Link do Agente GPT:**  
 [Análise de Pitch](exemplo)
