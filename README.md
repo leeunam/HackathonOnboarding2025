@@ -5,12 +5,12 @@
 [Análise de Pitch](exemplo)
 
 ## **👥 Responsáveis:**  
-- 🧑‍💻 [Ana Júlia Rodrigues Ribeiro](https://github.com/anajuliarrod)  
-- 👩‍💻 [Gabriel Carvalho Zanette](https://github.com/Zanette00)  
-- 👨‍🔬 [Leunam Sousa de Jesus](https://github.com/leeunam)  
-- 👩‍🔬 [Lorena Gabriela da Silva Garcia](https://github.com/loreggarcia)  
-- 👨‍🎨 [Nathália Pires de Figueredo](https://github.com/Nathaliapfigueredo)  
-- 👩‍🎨 [Yan de Oliveira Ribeiro](https://github.com/Zanette00)  
+💻 [Ana Júlia Rodrigues Ribeiro](https://github.com/anajuliarrod)  
+💻 [Gabriel Carvalho Zanette](https://github.com/Zanette00)  
+💻 [Leunam Sousa de Jesus](https://github.com/leeunam)  
+💻 [Lorena Gabriela da Silva Garcia](https://github.com/loreggarcia)  
+💻 [Nathália Pires de Figueredo](https://github.com/Nathaliapfigueredo)  
+💻 [Yan de Oliveira Ribeiro](https://github.com/Zanette00)  
 
 ---
 
