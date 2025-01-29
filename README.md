@@ -7,9 +7,9 @@
 - 🧑‍💻 [Ana Júlia Rodrigues Ribeiro](#)  
 - 👩‍💻 [Gabriel Carvalho Zanette](#)  
 - 👨‍🔬 [Leunam Sousa de Jesus](https://github.com/leeunam)  
-- 👩‍🔬 [Lorena Gabriela da Silva Garcia](#)  
+- 👩‍🔬 [Lorena Gabriela da Silva Garcia](https://github.com/loreggarcia)  
 - 👨‍🎨 [Nathália Pires de Figueredo](#)  
-- 👩‍🎨 [Yan de Oliveira Ribeiro](#)  
+- 👩‍🎨 [Yan de Oliveira Ribeiro](https://github.com/Zanette00)  
 
 ---
 
