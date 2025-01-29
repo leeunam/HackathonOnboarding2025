@@ -4,8 +4,8 @@
 [Análise de Pitch](exemplo)
 
 ## **👥 Equipe KitKat🍫:**  
-- 🧑‍💻 [Ana Júlia Rodrigues Ribeiro](#)  
-- 👩‍💻 [Gabriel Carvalho Zanette](#)  
+- 🧑‍💻 [Ana Júlia Rodrigues Ribeiro](https://github.com/anajuliarrod)  
+- 👩‍💻 [Gabriel Carvalho Zanette](https://github.com/Zanette00)  
 - 👨‍🔬 [Leunam Sousa de Jesus](https://github.com/leeunam)  
 - 👩‍🔬 [Lorena Gabriela da Silva Garcia](https://github.com/loreggarcia)  
 - 👨‍🎨 [Nathália Pires de Figueredo](https://github.com/Nathaliapfigueredo)  
