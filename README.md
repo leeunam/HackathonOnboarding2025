@@ -5,12 +5,12 @@
 [Análise de Pitch](exemplo)
 
 ## **👥 Responsáveis:**  
-💻 [Ana Júlia Rodrigues Ribeiro](https://github.com/anajuliarrod)  
-💻 [Gabriel Carvalho Zanette](https://github.com/Zanette00)  
-💻 [Leunam Sousa de Jesus](https://github.com/leeunam)  
-💻 [Lorena Gabriela da Silva Garcia](https://github.com/loreggarcia)  
-💻 [Nathália Pires de Figueredo](https://github.com/Nathaliapfigueredo)  
-💻 [Yan de Oliveira Ribeiro](https://github.com/Zanette00)  
+👩‍💻 [Ana Júlia Rodrigues Ribeiro](https://github.com/anajuliarrod)  
+👨‍💻 [Gabriel Carvalho Zanette](https://github.com/Zanette00)  
+👨‍💻 [Leunam Sousa de Jesus](https://github.com/leeunam)  
+👩‍💻 [Lorena Gabriela da Silva Garcia](https://github.com/loreggarcia)  
+👩‍💻 [Nathália Pires de Figueredo](https://github.com/Nathaliapfigueredo)  
+👨‍💻 [Yan de Oliveira Ribeiro](https://github.com/Zanette00)  
 
 ## **📖 Como Surgiu o Projeto:**
 
@@ -64,8 +64,9 @@ Nosso objetivo era criar uma ferramenta que ajudasse estagiários e profissionai
 
 ---
 ### **⚠️ Prompts**
-- 📗 _[Prompt](https://github.com/leeunam/HackathonOnboarding2025/blob/main/prompts.txt)_
-- 
+- 📄 _[Prompt](https://github.com/leeunam/HackathonOnboarding2025/blob/main/prompts.txt)_
+
+  
 ### **📘 Referências Utilizadas:**  
 - 📗 _[Análise de Efetividade na Comunicação Estratégica em Instituições: Um Estudo na Arquidiocese de Belo Horizonte]_ (https://scholar.google.com.br/scholar?hl=pt-BR&as_sdt=0%2C5&q=efetividade+da+comunica%C3%A7%C3%A3o&btnG=)
 - 📙 _[Relevância da assertividade na comunicação profissional de saúde-paciente]_ (https://scielo.pt/pdf/psd/v13n2/v13n2a11.pdf )
