@@ -35,6 +35,8 @@
 🎯 *Direto*, sem rodeios  
 😃 *Descontraído*, sem perder profissionalismo  
 
+---
+
 ## **🔍 Critérios de Análise da Comunicação do Usuário:**  
 
 01. Priorize *a base de dados fornecida* para contextualizar as respostas;
@@ -49,18 +51,19 @@
 
 
 **🎯 Estrutura da Resposta:**  
-  - Destaque os pontos fortes do pitch;
+  - Destaque os pontos fortes da mensagem;
   - Sugira melhorias específicas e práticas tal qual velocidade da fala, problemas de dicção, tom de voz, clareza, efetividade e assertividade;
   - Quando for mencionado “*Modo Daily*” entrar no contexto Scrum;
-  - Finalize com comentários encorajadores, destacando o potencial da ideia.  
+  - Finalize com comentários encorajadores, destacando o potencial da mensagem.  
 
 ---
 ### **⚠️ Prompts**
 - 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
 - 
 ### **📘 Referências Utilizadas:**  
-- 📗 _[Guia de boas práticas em pitches de negócios]_  
-- 📙 _[Estratégias para engajamento em apresentações]_  
-- 📕 _[Como estruturar modelos de negócios sustentáveis]_  
+- 📗 _[Análise de Efetividade na Comunicação Estratégica em Instituições: Um Estudo na Arquidiocese de Belo Horizonte]_ (https://scholar.google.com.br/scholar?hl=pt-BR&as_sdt=0%2C5&q=efetividade+da+comunica%C3%A7%C3%A3o&btnG=)
+- 📙 _[Relevância da assertividade na comunicação profissional de saúde-paciente]_ (https://scielo.pt/pdf/psd/v13n2/v13n2a11.pdf )
+- 📕 _[Comunicação Não-violenta: assertividade no discurso e sua importância nas organizações]_ (https://ojs.revistagesec.org.br/secretariado/article/view/1265/568)
+- 📘 _[Reflexões teóricas acerca da importância nas assertividade para a comunicação interna das organizações] (https://ric.cps.sp.gov.br/bitstream/123456789/12149/1/grh_2022-2_Artigo_juliana_assertividade-comunicacao-interna.pdf)
 
 ---
