@@ -12,6 +12,12 @@
 💻 [Nathália Pires de Figueredo](https://github.com/Nathaliapfigueredo)  
 💻 [Yan de Oliveira Ribeiro](https://github.com/Zanette00)  
 
+## **📖 Como Surgiu o Projeto:**
+
+O KitChat nasceu durante o hackathon de onboarding da turma de 2025 da Inteli. Todos os integrantes são alunos que ingressaram neste ano e, durante nosso brainstorming, identificamos um desafio comum: desenvolver habilidades de comunicação e colaboração para formar líderes mais preparados.
+
+Nosso objetivo era criar uma ferramenta que ajudasse estagiários e profissionais a aprimorar suas soft skills, focando principalmente em comunicação, colaboração e pensamento crítico. Porém decidimos filtrar para um sistema que métricasse e analisasse interações, proporcionando feedbacks personalizados para evolução contínua. Assim, surgiu a ideia de um agente de IA que atua como um mentor virtual para auxiliar em uma comunicação assertiva e efetiva para trabalho em equipe em liderança voltado para Scrum.
+
 ---
 
 ## **📄 Descrição do Projeto**  
@@ -39,15 +45,15 @@
 
 ## **🔍 Critérios de Análise da Comunicação do Usuário:**  
 
-01. Priorize *a base de dados fornecida* para contextualizar as respostas;
-02. Use *feedback SCI* para apontar melhorias:
+01. Ele prioriza *a base de dados fornecida* para contextualizar as respostas;
+02. Usa *feedback SCI* para apontar melhorias:
 (Toda analise do agente é baseada na metodologia de Feedback SCI / Situação - comportamento - impacto)_
 
-03. Reformule mensagens quando necessário, mantendo a autenticidade do usuário;
-04. Adapte o tom conforme a necessidade;
-05. Sugira *técnicas e exercícios práticos* quando necessário;
-06. Entregue respostas claras e sintetizadas;
-07. Respeite o Manifesto Inteli da base de dados.
+03. Reformula mensagens quando necessário, mantendo a autenticidade do usuário;
+04. Adapta o tom conforme a necessidade;
+05. Sugere *técnicas e exercícios práticos* quando necessário;
+06. Entrega respostas claras e sintetizadas;
+07. Respeita o Manifesto Inteli da base de dados.
 
 
 **🎯 Estrutura da Resposta:**  
