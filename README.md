@@ -68,7 +68,7 @@ Nosso objetivo era criar uma ferramenta que ajudasse estagiários e profissionai
 
   
 ### **📘 Referências Utilizadas:**  
-- 📗 _[Análise de Efetividade na Comunicação Estratégica em Instituições: Um Estudo na Arquidiocese de Belo Horizonte](https://scholar.google.com.br/scholar?hl=pt-BR&as_sdt=0%2C5&q=efetividade+da+comunica%C3%A7%C3%A3o&btnG=)_
+- 📗 _[Análise de Efetividade na Comunicação Estratégica em Instituições: Um Estudo na Arquidiocese de Belo Horizonte](https://arquivo.bocc.ubi.pt/pag/bocc-eliane.pdf)_
 - 📙 _[Relevância da assertividade na comunicação profissional de saúde-paciente](https://scielo.pt/pdf/psd/v13n2/v13n2a11.pdf )_
 - 📕 _[Comunicação Não-violenta: assertividade no discurso e sua importância nas organizações](https://ojs.revistagesec.org.br/secretariado/article/view/1265/568)_
 - 📘 _[Reflexões teóricas acerca da importância nas assertividade para a comunicação interna das organizações](https://ric.cps.sp.gov.br/bitstream/123456789/12149/1/grh_2022-2_Artigo_juliana_assertividade-comunicacao-interna.pdf)_
