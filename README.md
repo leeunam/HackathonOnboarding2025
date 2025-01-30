@@ -2,7 +2,7 @@
 > Inteli - Hackathon Onboarding 2025
 
 ### **🔗 Link do Agente GPT:**  
-[Análise de Pitch](exemplo)
+[Clique aqui para acessar o KitChat](https://chatgpt.com/g/g-679aa80034d481918fa996e3f55f72b3-kitchat)
 
 ## **👥 Responsáveis:**  
 👩‍💻 [Ana Júlia Rodrigues Ribeiro](https://github.com/anajuliarrod)  
