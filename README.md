@@ -16,7 +16,7 @@
 
 O KitChat nasceu durante o hackathon de onboarding da turma de 2025 da Inteli. Todos os integrantes são alunos que ingressaram neste ano e, durante nosso brainstorming, identificamos um desafio comum: desenvolver habilidades de comunicação e colaboração para formar líderes mais preparados.
 
-Nosso objetivo era criar uma ferramenta que ajudasse estagiários e profissionais a aprimorar suas soft skills, focando principalmente em comunicação, colaboração e pensamento crítico. Porém decidimos filtrar para um sistema que métricasse e analisasse interações, proporcionando feedbacks personalizados para evolução contínua. Assim, surgiu a ideia de um agente de IA que atua como um mentor virtual para auxiliar em uma comunicação assertiva e efetiva para trabalho em equipe em liderança voltado para Scrum.
+Nosso objetivo era criar uma ferramenta que ajudasse estagiários e profissionais a aprimorar suas soft skills, focando principalmente em comunicação, colaboração e pensamento crítico. Porém, decidimos filtrar para um sistema que analisasse mensagens, proporcionando feedbacks personalizados a fim de garantir uma comunicação clara entre os membros. Assim, surgiu a ideia de um agente de IA que atua como um mentor virtual para auxiliar na comunicação dentro do *Daily* e no *Sprint Retrospective*, tornando assim a comunicação assertiva e efetiva para trabalho em equipe e liderança dentro de projetos 
 
 ---
 
@@ -57,10 +57,10 @@ Nosso objetivo era criar uma ferramenta que ajudasse estagiários e profissionai
 
 
 **🎯 Estrutura da Resposta:**  
-  - Destaque os pontos fortes da mensagem;
-  - Sugira melhorias específicas e práticas tal qual velocidade da fala, problemas de dicção, tom de voz, clareza, efetividade e assertividade;
+  - Destacar os pontos fortes da mensagem;
+  - Sugerir melhorias específicas e práticas tal qual velocidade da fala, problemas de dicção, tom de voz, clareza, efetividade e assertividade;
   - Quando for mencionado “*Modo Daily*” entrar no contexto Scrum;
-  - Finalize com comentários encorajadores, destacando o potencial da mensagem.  
+  - Finalizar com comentários encorajadores, destacando o potencial da mensagem.  
 
 ---
 ### **⚠️ Prompts**
