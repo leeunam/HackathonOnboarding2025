@@ -64,7 +64,7 @@ Nosso objetivo era criar uma ferramenta que ajudasse estagiários e profissionai
 
 ---
 ### **⚠️ Prompts**
-- 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
+- 📗 _[Prompt](https://github.com/leeunam/HackathonOnboarding2025/blob/main/prompts.txt)_
 - 
 ### **📘 Referências Utilizadas:**  
 - 📗 _[Análise de Efetividade na Comunicação Estratégica em Instituições: Um Estudo na Arquidiocese de Belo Horizonte]_ (https://scholar.google.com.br/scholar?hl=pt-BR&as_sdt=0%2C5&q=efetividade+da+comunica%C3%A7%C3%A3o&btnG=)
