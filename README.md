@@ -68,12 +68,12 @@ Nosso objetivo era criar uma ferramenta que ajudasse estagiários e profissionai
 
   
 ### **📘 Referências Utilizadas:**  
-- 📗 _[Análise de Efetividade na Comunicação Estratégica em Instituições: Um Estudo na Arquidiocese de Belo Horizonte]_ (https://scholar.google.com.br/scholar?hl=pt-BR&as_sdt=0%2C5&q=efetividade+da+comunica%C3%A7%C3%A3o&btnG=)
-- 📙 _[Relevância da assertividade na comunicação profissional de saúde-paciente]_ (https://scielo.pt/pdf/psd/v13n2/v13n2a11.pdf )
-- 📕 _[Comunicação Não-violenta: assertividade no discurso e sua importância nas organizações]_ (https://ojs.revistagesec.org.br/secretariado/article/view/1265/568)
-- 📘 _[Reflexões teóricas acerca da importância nas assertividade para a comunicação interna das organizações] _(https://ric.cps.sp.gov.br/bitstream/123456789/12149/1/grh_2022-2_Artigo_juliana_assertividade-comunicacao-interna.pdf)
-- 📙 _[Entenda o que é o feedback SCI e como ele pode te ajudar]_ (https://blog.smartleader.com.br/feedback-sci/)
-- 📗 _[Modelos de feedback: conheça os principais e como aplicá-los]_ (https://www.qulture.rocks/blog/modelos-de-feedback)
-- 📘 _[Feedback: O que é, método SCI e exemplos]_ (https://www.escoladeceo.com.br/feedback-o-que-e-para-que-serve-qual-o-melhor-metodo-e-exemplos)
+- 📗 _[Análise de Efetividade na Comunicação Estratégica em Instituições: Um Estudo na Arquidiocese de Belo Horizonte](https://scholar.google.com.br/scholar?hl=pt-BR&as_sdt=0%2C5&q=efetividade+da+comunica%C3%A7%C3%A3o&btnG=)_
+- 📙 _[Relevância da assertividade na comunicação profissional de saúde-paciente](https://scielo.pt/pdf/psd/v13n2/v13n2a11.pdf )_
+- 📕 _[Comunicação Não-violenta: assertividade no discurso e sua importância nas organizações](https://ojs.revistagesec.org.br/secretariado/article/view/1265/568)_
+- 📘 _[Reflexões teóricas acerca da importância nas assertividade para a comunicação interna das organizações](https://ric.cps.sp.gov.br/bitstream/123456789/12149/1/grh_2022-2_Artigo_juliana_assertividade-comunicacao-interna.pdf)_
+- 📙 _[Entenda o que é o feedback SCI e como ele pode te ajudar](https://blog.smartleader.com.br/feedback-sci/)_
+- 📗 _[Modelos de feedback: conheça os principais e como aplicá-los](https://www.qulture.rocks/blog/modelos-de-feedback)_
+- 📘 _[Feedback: O que é, método SCI e exemplos](https://www.escoladeceo.com.br/feedback-o-que-e-para-que-serve-qual-o-melhor-metodo-e-exemplos)_
 
 ---
